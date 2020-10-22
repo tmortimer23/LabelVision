@@ -1,8 +1,8 @@
-#Label Vision
+# Label Vision
 
 LabelVision is a photo and video annotation tool used to identify people and track their movement from frame to frame. The goal is to use these annotations as an input for a machine learning algorithm to be able to annotate videos automatically. 
 
-##Installation
+## Installation
 
 1. LabelVision requires Python 3.6 or greater. This can be downloaded from the [Python downloads page here](https://www.python.org/downloads/). It is recommended that you install Python 3.9.0.  
 
@@ -30,7 +30,7 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 
 
-##Usage
+## Usage
 
 Using LabelVision is actually quite simple and there are a minimal amount of controls.  
 
@@ -41,7 +41,7 @@ Choose the directory (most likely a photo set) that you would like to annotate.
 Once you have opened your image directory in LabelVision, the first frame in the set should appear on the screen. 
 
 
-##Shortcuts and Hotkeys
+## Shortcuts and Hotkeys
 
 (Perhaps insert the image for the hotkeys here)
 
