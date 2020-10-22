@@ -6,9 +6,9 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 1. LabelVision requires Python 3.6 or greater. This can be downloaded from the [Python downloads page here](https://www.python.org/downloads/). It is recommended that you install Python 3.9.0.  
 
-2. After downloading the correct version of Python for your system, the executable should be run. A window will appear that will ask if you would like to install Python to your machine. For simplicity, click install and keep the installation in the default directory. 
+2. After downloading the correct version of Python for your system, the download file.exe should be run. A window will appear that will ask if you would like to install Python to your machine. For simplicity, click install and keep the installation in the default directory. 
 
-3. Following the installation, a window should appear saying "Setup Successful". To check if Python installed correctly, open your command window and type:  	 
+3. Following the installation, a window should appear saying "Setup Successful". To check if Python installed correctly, open your command window ("Command Prompt" for Windows; "Terminal" for Mac) and type:  	 
 	
 		python3 --version 
 
@@ -18,15 +18,13 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 	[Mac](https://www.youtube.com/watch?v=TgA4ObrowRg&ab_channel=AutomationStepbyStep-RaghavPal) 
 
-4.   Following the installation of Python, it is required that you install the Pillow module via the command line. To do this, bring up your command line and type the following: 
+4.   Following the installation of Python, it is required that you install the Pillow module via the command line. Again, if using a Windows machine, open the "Command Prompt" program. If using a Mac machine, open the "Terminal" program. Once you have opened it, type the following:
 	
 		pip3 install Pillow
 
-5. With Python and Pillow installed, you can now download and use LabelVision. (Not sure about the specific download and installation of this program)
+5. With Python and Pillow installed, you can now download and use LabelVision. From the Github repository, select the drop down green arrow that says "Code" and download the zipped file. Extract these files to a folder called LabelVision.
 
-6. After downloading the 3 files necessary to use LabelVision, you should consolidate them into a single folder that is easily accessible. 
-
-7. To launch the program, select the file main.py and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
+6. To launch the program, navigate to your LabelVision directory, select the file main.py, right click and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
 
 
 
