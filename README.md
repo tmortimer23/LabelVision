@@ -24,7 +24,7 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 4.   Following the installation of Python, it is required that you install the Pillow module via the command line. Again, if using a Windows machine, open the "Command Prompt" program. If using a Mac machine, open the "Terminal" program. Once you have opened it, type the following:
 	
-		pip3 install Pillow
+	pip3 install Pillow
 
 5. With Python and Pillow installed, you can now download and use LabelVision. From the Github repository, select the drop down green arrow that says "Code" and download the zipped file. Extract these files to a folder called LabelVision.
 
