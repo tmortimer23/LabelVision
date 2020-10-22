@@ -27,6 +27,13 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 6. To launch the program, navigate to your LabelVision directory, select the file main.py, right click and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
 
 
+## Test Cases 
+1. Now that you should have the LabelVision application up and running, we are going to test to see if you can open a directory of photos to annotate. In the Google Drive under Greg and Rick Research Group -> COVID Project, there will be a compressed folder called Test Directory. Download and unpack this folder.
+
+2. Within LabelVision, go to file -> Open Directory and then navigate to the test directory. Click on the folder containing the 5 frames that you downloaded from Google Drive and click open. This should bring up the first frame within the LabelVision window. 
+
+For Greg, Rick, Meghana, Steven - This will be the end of the test. Ignore the rest of this readme file. 
+---------------------------------------------------------------------------------------------
 
 ## Usage
 
