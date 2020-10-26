@@ -8,7 +8,7 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 2. After downloading the correct version of Python for your system, the download file.exe should be run. A window will appear that will ask if you would like to install Python to your machine. **During this step, it is vital that you check the box that says "Add Python 3.9 to path".** Continue with the installation.  
 
-![Python Install](pythoninstall.JPG)
+![Python Install](path.JPG)
 
 3. Following the installation, a window should appear saying "Setup Successful". To check if Python installed correctly, open your command window ("Command Prompt" for Windows; "Terminal" for Mac) and type:  	 
 	
