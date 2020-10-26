@@ -38,9 +38,12 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 	
 	pip3 install Pillow
 
-5. With Python and Pillow installed, you can now download and use LabelVision. From the Github repository, select the drop down green arrow that says "Code" and download the zipped file. Extract these files to a folder called LabelVision.
 
-6. To launch the program, navigate to your LabelVision directory, select the file main.py, right click and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
+## LabelVision Download and Installation
+
+1. With Python and Pillow installed, you can now download and use LabelVision. From the Github repository, select the drop down green arrow that says "Code" and download the zipped file. Extract these files to a folder called LabelVision.
+
+2. To launch the program, navigate to your LabelVision directory, select the file main.py, right click and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
 
 
 ## Test Cases 
