@@ -18,7 +18,7 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 	
 	**One**: a list of help commands and actions will be displayed (shown below). If this is the case, you have installed python correctly and can move to step four. 
 	
-	![Python Installed Correctly](installgood.jpg)
+	![Python Installed Correctly](install_good.jpg)
 	
 	**Two**: the command line will display "pip3 is not recognized as an internal or external command" as shown below. If this is the case, navigate to the Python download.
 	
