@@ -51,9 +51,6 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 2. Within LabelVision, go to file -> Open Directory and then navigate to the test directory. Click on the folder containing the 5 frames that you downloaded from Google Drive and click open. This should bring up the first frame within the LabelVision window. 
 
-For Greg, Rick, Meghana, Steven - This will be the end of the test. Ignore the rest of this readme file. 
----------------------------------------------------------------------------------------------
-
 ## Usage
 
 Using LabelVision is actually quite simple and there are a minimal amount of controls.  
