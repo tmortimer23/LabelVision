@@ -26,7 +26,7 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 	
 	If you see something similar to what is shown directly above, open the Python download .exe file and choose "Modify". Navigate to the final window (Advanced Options) with "Next" and make sure to check the option "Add Python to envrionment variables".
 	
-	![Environmental Variables Check](enviro.JPG)
+	![Environmental Variables Check](enviro.jpg)
 	
 	Close your command window and repeat step 3. If this does not solve your issue, navigate to the links below for a more in depth installation of Python for the system of your choice. 
 
