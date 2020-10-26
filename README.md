@@ -2,7 +2,7 @@
 
 LabelVision is a photo and video annotation tool used to identify people and track their movement from frame to frame. The goal is to use these annotations as an input for a machine learning algorithm to be able to annotate videos automatically. 
 
-## Installation
+## Python and Pillow Installation
 
 1. LabelVision requires Python 3.6 or greater. This can be downloaded from the [Python downloads page here](https://www.python.org/downloads/). It is recommended that you install Python 3.9.0.  
 
@@ -20,9 +20,15 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 	
 	![Python Installed Correctly](installgood.jpg)
 	
-	**Two**: the command line will display "pip3 is not recognized as an internal or external command" as shown below. If this is the case, navigate to the Python download. Open the program and choose "modify".
+	**Two**: the command line will display "pip3 is not recognized as an internal or external command" as shown below. If this is the case, navigate to the Python download.
 	
 	![Python Not Installed Correctly](installbad.jpg)
+	
+	If you see something similar to what is shown directly above, open the Python download .exe file and choose "Modify". Navigate to the final window (Advanced Options) with "Next" and make sure to check the option "Add Python to envrionment variables".
+	
+	![Environmental Variables Check](enviro.JPG)
+	
+	Close your command window and repeat step 3. If this does not solve your issue, navigate to the links below for a more in depth installation of Python for the system of your choice. 
 
 	[Windows](https://www.youtube.com/watch?v=i-MuSAwgwCU&ab_channel=IDGTECHtalk) 
 
