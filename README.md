@@ -8,17 +8,19 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 2. After downloading the correct version of Python for your system, the download file.exe should be run. A window will appear that will ask if you would like to install Python to your machine. **During this step, it is vital that you check the box that says "Add Python 3.9 to path".** Continue with the installation.  
 
+![Python Install](pythoninstall.jpg)
+
 3. Following the installation, a window should appear saying "Setup Successful". To check if Python installed correctly, open your command window ("Command Prompt" for Windows; "Terminal" for Mac) and type:  	 
 	
 		pip3
 		
 	One of two things will happen. 
 	
-	One: a list of help commands and actions will be displayed (shown below). If this is the case, you have installed python correctly and can move to step four. 
+	**One**: a list of help commands and actions will be displayed (shown below). If this is the case, you have installed python correctly and can move to step four. 
 	
 	![Python Installed Correctly](installgood.jpg)
 	
-	Two: the command line will display "pip3 is not recognized as an internal or external command". If this is the case, email me at mortimer@udel.edu and let me know and use the following links for help with the installation of Python. 
+	**Two**: the command line will display "pip3 is not recognized as an internal or external command" as shown below. If this is the case, navigate to the Python download. Open the program and choose "modify".
 
 	[Windows](https://www.youtube.com/watch?v=i-MuSAwgwCU&ab_channel=IDGTECHtalk) 
 
