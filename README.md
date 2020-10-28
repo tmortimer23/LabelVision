@@ -66,8 +66,6 @@ Once you have opened your image directory in LabelVision, the first frame in the
 
 ## Shortcuts and Hotkeys
 
-(Perhaps insert the image for the hotkeys here)
-
 ![Keyboard Shortcuts](shortcuts.JPG)
 
 W - with the W key, you can switch between creating annotations by dragging your mouse (the pointer color will be black) and deleting annotations by simply clicking on it (the pointer color will be red in this mode).
