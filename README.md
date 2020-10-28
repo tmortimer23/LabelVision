@@ -57,7 +57,7 @@ The first step in using the program to annotate video is selecting your director
 
 ![Test](test_dir.JPG)
 
-Do this by navigating to the location with which the Test Directory is located. Click once on the folder to highlight it, and then choose "Select folder" as shown below. 
+Do this by navigating to the location with which the Test Directory is located. Click **once** on the folder to highlight it, and then choose "Select folder" as shown below. 
 
 ![Open](open.JPG)
 
