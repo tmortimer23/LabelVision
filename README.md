@@ -47,24 +47,24 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 2. To launch the program, navigate to your LabelVision directory, select the file main.py, right click and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
 
-
-## Test Cases 
-1. Now that you should have the LabelVision application up and running, we are going to test to see if you can open a directory of photos to annotate. In the Google Drive under Greg and Rick Research Group -> COVID Project, there will be a compressed folder called Test Directory. Download and unpack this folder.
-
-2. Within LabelVision, go to file -> Open Directory and then navigate to the test directory. Click on the folder containing the 5 frames that you downloaded from Google Drive and click open. This should bring up the first frame within the LabelVision window. 
-
 ## Usage
 
-Using LabelVision is actually quite simple and there are a minimal amount of controls.  
+Using LabelVision is actually quite simple and there are a minimal amount of controls. If you've launched the program correctly you should see what is displayed below.
 
-The first step in using the program to annotate video is selecting your directory. Go to "File" -> "Open Directory" in the top left.  
+![home](home.JPG)
 
-Choose the directory (most likely a photo set) that you would like to annotate. 
+The first step in using the program to annotate video is selecting your directory. Go to "File" -> "Open Directory" in the top left or use Ctrl+O. This will bring you to the files on your computer. For this example, we'll like to open up the folder called "Test Directory" shown below.
+
+![Test](test_dir.JPG)
+
+Do this by navigating to the location with which the Test Directory is located. Click once on the folder to highlight it, and then choose "Open" as shown below. 
+
+![Open](open.JPG)
 
 Once you have opened your image directory in LabelVision, the first frame in the set should appear on the screen. 
 
 
-## Shortcuts and Hotkeys
+### Shortcuts and Hotkeys
 
 ![Keyboard Shortcuts](shortcuts.JPG)
 
