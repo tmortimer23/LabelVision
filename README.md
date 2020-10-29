@@ -51,7 +51,7 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 ![How to extract the zip file](Extraction.PNG)
 
-3. To launch the program, navigate to your LabelVision directory, select the file main.py, right click and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
+3. To launch the program, navigate to your LabelVision directory, double click on the file main.py.
 
 ## Usage
 
@@ -80,5 +80,3 @@ After setting your label type, use the keyboard shortcuts to annotate your image
 W - with the W key, you can switch between creating annotations by dragging your mouse (the pointer color will be black) and deleting annotations by simply clicking on it (the pointer color will be red in this mode).
 
 A/D - A and D are used to move to the previous frame and next frame in the photo set, respectively. 
-
-ctrl-V - control + V is a paste command used to copy-paste the annotations from a previous frame.
