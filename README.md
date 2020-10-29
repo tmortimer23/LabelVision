@@ -47,7 +47,9 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 ![Download from Git](GitGetStarted.PNG)
 
-2. Extract these files to a folder called LabelVision.
+2. Extract these files to a folder called LabelVision and save them in an accessible location by choosing a desired path in browse (i.e. the Desktop).
+
+![How to extract the zip file](Extraction.PNG)
 
 3. To launch the program, navigate to your LabelVision directory, select the file main.py, right click and choose the option to edit with IDLE (whatever version you have). Following this, use F5 or the "run module" option under the "Run" tab to launch LabelVision. 
 
