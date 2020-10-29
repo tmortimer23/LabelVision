@@ -47,7 +47,7 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 ![Download from Git](GitGetStarted.PNG)
 
-2. Extract these files to a folder called LabelVision and save them in an accessible location by choosing a desired path in browse (i.e. the Desktop).
+2. Extract these files to a folder called LabelVision and save them in an accessible location by choosing a path in browse (i.e. the Desktop).
 
 ![How to extract the zip file](Extraction.PNG)
 
