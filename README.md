@@ -67,8 +67,11 @@ Do this by navigating to the location with which the Test Directory is located. 
 
 ![Open](open.JPG)
 
-Once you have opened your image directory in LabelVision, the first frame in the set should appear on the screen. 
+Once you have opened your image directory in LabelVision, the first frame in the set should appear on the screen. Choose a label type from clicking on the default label "person".
 
+![Labeling Options](LabelOptions.png)
+
+After setting your label type, use the keyboard shortcuts to annotate your images. 
 
 ### Shortcuts and Hotkeys
 
@@ -77,3 +80,5 @@ Once you have opened your image directory in LabelVision, the first frame in the
 W - with the W key, you can switch between creating annotations by dragging your mouse (the pointer color will be black) and deleting annotations by simply clicking on it (the pointer color will be red in this mode).
 
 A/D - A and D are used to move to the previous frame and next frame in the photo set, respectively. 
+
+ctrl-V - control + V is a paste command used to copy-paste the annotations from a previous frame.
