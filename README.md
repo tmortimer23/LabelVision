@@ -20,10 +20,9 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 	
 	If using Mac, the Terminal can be found using the search feature that is found in the top right hand side of your desktop. 
 	
-	![cmd_mac](Tutorial/cmd_mac.jpg)
+	![cmd_mac](Tutorial/cmd_mac.png)
 
-
-	and type:  	 
+	Once you have your respective command window open, type the following. 
 	
 		pip3
 		
