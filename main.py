@@ -132,8 +132,12 @@ class ImageCanvas(tk.Canvas):
     def load_image(self,filename):
         print(filename)
         if self.image_filename != DEFAULT_IMAGE_FILENAME:
-            print("Saving Labels", self.image_filename)
-            self.save_labels(self.image_filename, self.labels)
+            if len(self.labels) > 0:
+                print("Saving Labels", self.image_filename)
+                self.save_labels(self.image_filename, self.labels)
+            else:
+                print("removing labels", self.image_filename)
+                self.delete_label_file()
         self.load_labels(filename, self.labels)
         self.image_filename = filename
         self.resizeable_image = Image.open(self.image_filename).resize((self.width, self.height), Image.ANTIALIAS)
