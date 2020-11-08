@@ -67,6 +67,8 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 ## Usage
 
+For a video tutorial on the usage of LabelVision, follow this link: [LabelVision Usage Video Tutorial](https://youtu.be/5Ukdo_vU1nc)
+
 Using LabelVision is quite simple and there are a minimal amount of controls. If you've launched the program correctly you should see what is displayed below.
 
 ![home](Tutorial/home.JPG)
