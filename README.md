@@ -89,7 +89,7 @@ After setting your label type, use the keyboard shortcuts to annotate your image
 
 ### Shortcuts and Hotkeys
 
-![Keyboard Shortcuts](shortcuts.JPG)
+![Keyboard Shortcuts](shortcuts2.JPG)
 
 W - with the W key, you can switch between creating annotations by dragging your mouse (the pointer color will be black) and deleting annotations by simply clicking on it (the pointer color will be red in this mode).
 
