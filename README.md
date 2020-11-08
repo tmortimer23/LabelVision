@@ -93,4 +93,18 @@ After setting your label type, use the keyboard shortcuts to annotate your image
 
 W - with the W key, you can switch between creating annotations by dragging your mouse (the pointer color will be black) and deleting annotations by simply clicking on it (the pointer color will be red in this mode).
 
-A/D - A and D are used to move to the previous frame and next frame in the photo set, respectively. 
+A - previous frame
+
+D - next frame
+
+C - clear all bounding boxes
+
+1 - "person" label
+
+2 - "no-mask" label
+
+3 - "mask" label
+
+4 - "improper-mask" label
+
+5 - "cant-tell-mask" label
