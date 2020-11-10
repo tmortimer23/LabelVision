@@ -6,7 +6,9 @@ LabelVision is a photo and video annotation tool used to identify people and tra
 
 ## Python and Pillow Installation
 
-**For a video tutorial of the installation click the following link:** [Installation Tutorial](https://youtu.be/lY63H_KyMaY)
+**Installation Video Tutorial Below**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lY63H_KyMaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. LabelVision requires Python 3.6 or greater. This can be downloaded from the [Python downloads page here](https://www.python.org/downloads/). It is recommended that you install Python 3.9.0.  
 
